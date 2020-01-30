@@ -2,10 +2,10 @@
 
 my projects
 
-LINEAR REGRESSION
-LOGISTIC REGRESSION
-RANDOM FOREST
-DECISION TREE
-SVM
-K-MEAN CLUSTERING
+Linear Regression,
+Logistic Regresion,
+Random Forest,
+Decision Tree,
+SVM,
+K-MEAN Clustering and
 NLP
